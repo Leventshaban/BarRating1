@@ -1,0 +1,33 @@
+C:\Users\user\Desktop\IT Career\BarRating\BusinessLayer\bin\Debug\net8.0\BusinessLayer.deps.json
+C:\Users\user\Desktop\IT Career\BarRating\BusinessLayer\bin\Debug\net8.0\BusinessLayer.dll
+C:\Users\user\Desktop\IT Career\BarRating\BusinessLayer\bin\Debug\net8.0\BusinessLayer.pdb
+C:\Users\user\Desktop\IT Career\BarRating\BusinessLayer\obj\Debug\net8.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\IT Career\BarRating\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\IT Career\BarRating\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\user\Desktop\IT Career\BarRating\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\IT Career\BarRating\BusinessLayer\obj\Debug\net8.0\BusinessLayer.dll
+C:\Users\user\Desktop\IT Career\BarRating\BusinessLayer\obj\Debug\net8.0\refint\BusinessLayer.dll
+C:\Users\user\Desktop\IT Career\BarRating\BusinessLayer\obj\Debug\net8.0\BusinessLayer.pdb
+C:\Users\user\Desktop\IT Career\BarRating\BusinessLayer\obj\Debug\net8.0\ref\BusinessLayer.dll
+C:\BarRating\BusinessLayer\bin\Debug\net8.0\BusinessLayer.deps.json
+C:\BarRating\BusinessLayer\bin\Debug\net8.0\BusinessLayer.dll
+C:\BarRating\BusinessLayer\bin\Debug\net8.0\BusinessLayer.pdb
+C:\BarRating\BusinessLayer\obj\Debug\net8.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\BarRating\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\BarRating\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfo.cs
+C:\BarRating\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\BarRating\BusinessLayer\obj\Debug\net8.0\BusinessLayer.dll
+C:\BarRating\BusinessLayer\obj\Debug\net8.0\refint\BusinessLayer.dll
+C:\BarRating\BusinessLayer\obj\Debug\net8.0\BusinessLayer.pdb
+C:\BarRating\BusinessLayer\obj\Debug\net8.0\ref\BusinessLayer.dll
+D:\Codes\BarRating\BarRating\BusinessLayer\bin\Debug\net8.0\BusinessLayer.deps.json
+D:\Codes\BarRating\BarRating\BusinessLayer\bin\Debug\net8.0\BusinessLayer.dll
+D:\Codes\BarRating\BarRating\BusinessLayer\bin\Debug\net8.0\BusinessLayer.pdb
+D:\Codes\BarRating\BarRating\BusinessLayer\obj\Debug\net8.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\BarRating\BarRating\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfoInputs.cache
+D:\Codes\BarRating\BarRating\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfo.cs
+D:\Codes\BarRating\BarRating\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.CoreCompileInputs.cache
+D:\Codes\BarRating\BarRating\BusinessLayer\obj\Debug\net8.0\BusinessLayer.dll
+D:\Codes\BarRating\BarRating\BusinessLayer\obj\Debug\net8.0\refint\BusinessLayer.dll
+D:\Codes\BarRating\BarRating\BusinessLayer\obj\Debug\net8.0\BusinessLayer.pdb
+D:\Codes\BarRating\BarRating\BusinessLayer\obj\Debug\net8.0\ref\BusinessLayer.dll

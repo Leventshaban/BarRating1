@@ -1,0 +1,46 @@
+﻿@model IEnumerable<BusinessLayer.Review>
+
+@{
+    ViewData["Title"] = "Index";
+    ViewData["UserId"] = TempData["UserId"];
+}
+
+<h1>Index</h1>
+
+<header>
+    <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+        <div class="container-fluid">
+            <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                <ul class="navbar-nav flex-grow-1">
+                    <li class="nav-item">
+                        <a class="nav-link text-dark" asp-area="" asp-controller="Bars" asp-action="IndexUser">Bars</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+</header>
+<p>
+    <a asp-action="Create">Create New</a>
+    <a asp-action="SortUsers">My Reviews</a>
+    <a asp-action="SortAll">All Reviews</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Text)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Text)
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
